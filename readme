@@ -1,1 +1,15 @@
-test
+## How to Run the Project
+
+### 1. Install dependencies
+
+Create a virtual environment and install required packages:
+pip install -r requirements.txt
+
+### 2. Create a .env file
+
+Add required API key:
+ANTHROPIC_API_KEY="your_key_here"
+
+### 3. Run the Streamlit app
+
+streamlit run app.py
