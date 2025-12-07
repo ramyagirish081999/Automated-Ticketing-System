@@ -1,0 +1,6 @@
+anthropic
+python-dotenv
+pandas
+streamlit
+llama-index-llms-anthropic
+llama-index

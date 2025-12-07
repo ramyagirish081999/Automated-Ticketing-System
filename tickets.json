@@ -1,0 +1,507 @@
+[
+    {
+        "ticket_no": "TICKET-0001",
+        "description": "I can't access the CRM; every time I try to load customer profiles it hangs. It's a low-severity bug that's slowing me down.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0002",
+        "description": "I'm getting errors in the ERP when I post invoices. This medium-severity incident is holding up billing.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0003",
+        "description": "I requested a change but the Email System notifications never arrived. It's a high-severity service request for our team updates.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0004",
+        "description": "I need to update our database schema but the tool won\u2019t let me save. It's a critical-severity change that\u2019s blocking new reports.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0005",
+        "description": "The Network is down intermittently and I can\u2019t reach any sites. This is a low-severity outage but it\u2019s annoying my remote work.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0006",
+        "description": "I noticed a bug in the Web Portal where the dashboard widgets overlap. It's a medium-severity bug affecting usability.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0007",
+        "description": "There was an incident in the Mobile App making the login screen unresponsive. It's a high-severity incident keeping me out.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0008",
+        "description": "I filed a service request because the API documentation link is broken. This is a critical-severity service request for the dev team.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0009",
+        "description": "I asked for a change to the Reporting Module but the update hasn\u2019t appeared. It's a low-severity change request.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0010",
+        "description": "Our Authentication Service went offline briefly. It's a medium-severity outage that caused sign-in failures.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0011",
+        "description": "I keep seeing a bug in the CRM where saved contacts vanish. It's a low-severity issue but important for my tracking.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0012",
+        "description": "The ERP is throwing payment errors. This medium-severity incident is delaying our vendor payouts.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0013",
+        "description": "I raised a service request because the Email System filters aren\u2019t working. It\u2019s a high-severity request; I\u2019m missing important mails.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0014",
+        "description": "I need to roll out a database patch but migrations fail. It's a critical-severity change that\u2019s blocking deployment.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0015",
+        "description": "There was an outage on the Network causing slow VPN. It's a low-severity outage but frustrating when working remotely.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0016",
+        "description": "I found a bug in the Web Portal search function\u2014it returns unrelated results. It's a medium-severity bug that wastes time.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0017",
+        "description": "I reported an incident in the Mobile App where push notifications never arrive. It's a high-severity problem for user updates.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0018",
+        "description": "I submitted a service request because the API rate limit is too low. It's a critical-severity request\u2014integrations are failing.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0019",
+        "description": "I asked for a change in the Reporting Module layout but nothing changed. It\u2019s a low-severity request but I need clarity.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0020",
+        "description": "I saw an outage on the Authentication Service that blocked everyone\u2019s login. It's a medium-severity outage impacting the whole team.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0021",
+        "description": "The CRM keeps logging me out randomly. It's a low-severity bug but interrupts my workflow.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0022",
+        "description": "The ERP crashed when generating reports. This medium-severity incident is disrupting month-end close.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0023",
+        "description": "I need the Email System whitelist updated for a new domain. It\u2019s a high-severity service request; we\u2019re missing client emails.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0024",
+        "description": "I requested a database index change but queries still time out. It's a critical-severity change for performance.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0025",
+        "description": "Our Network speed dipped below acceptable levels. It's a low-severity outage but slows down file transfers.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0026",
+        "description": "I noticed the Web Portal profile page layout is broken. It's a medium-severity bug making edits difficult.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0027",
+        "description": "There was an incident in the Mobile App causing crashes on startup. It's a high-severity issue for all mobile users.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0028",
+        "description": "I submitted a service request to increase API timeouts. It's a critical-severity request\u2014calls are failing constantly.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0029",
+        "description": "I asked to change the default report in the Reporting Module but the system ignores it. It's a low-severity change.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0030",
+        "description": "The Authentication Service rejected valid credentials yesterday. It's a medium-severity outage causing login confusion.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0031",
+        "description": "I have a bug in the CRM where export to CSV skips fields. It's a low-severity problem but I need complete data.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0032",
+        "description": "The ERP shows wrong tax calculations. This medium-severity incident is affecting invoices.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0033",
+        "description": "I need a service request to whitelist new email domains. It's a high-severity request\u2014clients\u2019 mails bounce.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0034",
+        "description": "I rolled out a database change but it broke backups. It's a critical-severity change\u2014backup failures are risky.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0035",
+        "description": "Our Network VPN disconnects randomly. It's a low-severity outage but disrupts meetings.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0036",
+        "description": "I see a bug where the Web Portal calendar doesn\u2019t show events. It's a medium-severity bug causing missed appointments.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0037",
+        "description": "I opened an incident because the Mobile App can\u2019t upload photos. It's a high-severity issue for field teams.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0038",
+        "description": "I filed a service request to reset our API keys. It's a critical-severity request\u2014integrations are failing.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0039",
+        "description": "I need to change the default dashboard in the Reporting Module but it didn\u2019t update. It's a low-severity change.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0040",
+        "description": "The Authentication Service timed out yesterday. It's a medium-severity outage causing login delays.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0041",
+        "description": "There's a bug in the CRM email integration\u2014outgoing mails aren\u2019t sent. It's a low-severity bug but frustrating.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0042",
+        "description": "The ERP login page is slow. This medium-severity incident delays my daily tasks.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0043",
+        "description": "I raised a service request because the Email System auto-archive is incorrectly flagging messages. It's a high-severity issue.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0044",
+        "description": "I need a database connection string change but can\u2019t update it. It's a critical-severity change blocking tool access.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0045",
+        "description": "Our Network firewalls are blocking some websites. It's a low-severity outage but I need them for research.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0046",
+        "description": "I see a bug in the Web Portal export feature\u2014it overlaps text. It's a medium-severity bug affecting reports.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0047",
+        "description": "I logged an incident because the Mobile App GPS tracking isn\u2019t accurate. It's a high-severity problem for logistics.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0048",
+        "description": "I requested service to increase API throughput. It's a critical-severity service request\u2014calls time out constantly.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0049",
+        "description": "I asked for a change in the Reporting Module filters but they didn\u2019t apply. It\u2019s a low-severity change.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0050",
+        "description": "The Authentication Service gave me an unknown error. It's a medium-severity outage stopping logins.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0051",
+        "description": "I encountered a bug in the CRM where tasks duplicate. It's a low-severity bug but clutters my task list.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0052",
+        "description": "The ERP failed to calculate discounts. This medium-severity incident is affecting quotes.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0053",
+        "description": "I need a service request to change my email signature settings in the Email System. It's a high-severity need for branding.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0054",
+        "description": "I implemented a database change but data got corrupted. It's a critical-severity change causing data loss.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0055",
+        "description": "Our Network packet loss spiked. It's a low-severity outage but audio calls cut out.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0056",
+        "description": "I see a bug in the Web Portal notifications\u2014they repeat. It's a medium-severity bug annoying users.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0057",
+        "description": "I reported an incident in the Mobile App where I can\u2019t update my profile. It's a high-severity issue for users.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0058",
+        "description": "I submitted a service request to add new endpoints to the API. It's a critical-severity need for integration.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0059",
+        "description": "I asked for a change in the Reporting Module date picker but it\u2019s still wrong. It's a low-severity request.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0060",
+        "description": "The Authentication Service locked out users yesterday. It's a medium-severity outage causing support tickets.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0061",
+        "description": "I found a bug in the CRM phone dialer integration. It's a low-severity bug but affects sales calls.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0062",
+        "description": "The ERP approval workflow got stuck. This medium-severity incident is delaying approvals.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0063",
+        "description": "I need a service request to reset blocked email accounts. It's a high-severity request for our staff.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0064",
+        "description": "I applied a database change but lost indexes. It's a critical-severity change that\u2019s hurting performance.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0065",
+        "description": "Our Network DNS resolution fails occasionally. It's a low-severity outage but blocks some sites.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0066",
+        "description": "I noticed a bug in the Web Portal theme switcher\u2014it resets. It's a medium-severity bug on preferences.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0067",
+        "description": "I opened an incident because the Mobile App camera view is blank. It's a high-severity issue for inspections.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0068",
+        "description": "I filed a service request to extend API key expiry. It's a critical-severity need to avoid downtime.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0069",
+        "description": "I asked to change default charts in the Reporting Module but it didn\u2019t stick. It's a low-severity change.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0070",
+        "description": "The Authentication Service delayed token refresh yesterday. It's a medium-severity outage for sessions.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0071",
+        "description": "I\u2019m seeing a bug in the CRM calendar sync\u2014it duplicates events. It's a low-severity issue but messy.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0072",
+        "description": "The ERP inventory counts are off. This medium-severity incident is affecting orders.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0073",
+        "description": "I requested a service change to adjust email forwarding rules. It's a high-severity need for communications.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0074",
+        "description": "I applied a database schema change but migrations rollback. It's a critical-severity change blocking releases.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0075",
+        "description": "Our Network throughput dipped under SLAs. It's a low-severity outage but worth fixing.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0076",
+        "description": "I noticed a bug on the Web Portal login button\u2014it\u2019s misaligned. It's a medium-severity visual bug.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0077",
+        "description": "I reported an incident because the Mobile App offline mode never syncs. It's a high-severity issue for fieldwork.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0078",
+        "description": "I submitted a service request to provision new API endpoints. It's a critical-severity need for clients.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0079",
+        "description": "I asked for a change in Reporting Module permissions but no effect. It's a low-severity request.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0080",
+        "description": "The Authentication Service rejected OAuth tokens. It's a medium-severity outage stopping SSO.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0081",
+        "description": "I found a bug in the CRM task reminders\u2014they never pop up. It's a low-severity issue but I miss alerts.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0082",
+        "description": "The ERP purchase order screen errors out. This medium-severity incident is delaying procurement.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0083",
+        "description": "I need a service request to adjust spam filters in the Email System. It's a high-severity request.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0084",
+        "description": "I implemented a database change but logs fill up. It's a critical-severity change clogging storage.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0085",
+        "description": "Our Network latency spikes every hour. It's a low-severity outage but noticeable during calls.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0086",
+        "description": "I see a bug in the Web Portal filter panel\u2014it freezes. It's a medium-severity issue when sorting data.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0087",
+        "description": "I logged an incident because the Mobile App chat function disconnects. It's a high-severity issue for support teams.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0088",
+        "description": "I submitted a service request to extend API logging retention. It's a critical-severity need for audits.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0089",
+        "description": "I asked to change default notification settings in the Reporting Module but it didn\u2019t apply. It's a low-severity change.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0090",
+        "description": "The Authentication Service lagged on password resets. It's a medium-severity outage frustrating users.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0091",
+        "description": "I\u2019m seeing a bug in the CRM merge function\u2014it duplicates contacts. It's a low-severity issue but tedious to clean up.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0092",
+        "description": "The ERP expense approvals got stuck. This medium-severity incident is delaying reimbursements.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0093",
+        "description": "I need a service request to add new SMTP servers to the Email System. It's a high-severity request.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0094",
+        "description": "I pushed a database change but lost stored procedures. It's a critical-severity change blocking features.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0095",
+        "description": "Our Network DNS lookup fails on some domains. It's a low-severity outage but blocks development.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0096",
+        "description": "I noticed a bug in the Web Portal theme switcher\u2014it reverts on refresh. It's a medium-severity annoyance.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0097",
+        "description": "I filed an incident because the Mobile App chat function disconnects. It's a high-severity issue for support teams.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0098",
+        "description": "I submitted a service request to upgrade our API tier. It's a critical-severity request to handle load.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0099",
+        "description": "I asked for a change in the Reporting Module color scheme but no update. It's a low-severity aesthetic request.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0100",
+        "description": "The Authentication Service token refresh delays logins. It's a medium-severity outage causing session timeouts.",
+        "status": "open"
+    },
+    {
+        "ticket_no": "TICKET-0101",
+        "description": "The billing page freezes when I click 'Apply Discount",
+        "status": "open"
+    }
+]
