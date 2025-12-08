@@ -1,3 +1,13 @@
+## File Description
+
+─ agent.py -> Contains the agent logic for loading tickets, creating tickets, changing ticket status, pending tickets by severity, tickets by status etc. and helper utilities.
+─ backend.py -> Handles JSON processing and helper utilities.
+─ app.py -> Streamlit UI for creating chat interface.
+─ tickets.json -> Input file
+─ requirements.txt -> relevant libraries for smooth exceution of the project.
+─ .env -> API Key
+
+
 ## How to Run the Project
 
 ### 1. Install dependencies
@@ -7,7 +17,6 @@ pip install -r requirements.txt
 
 ### 2. Create a .env file
 
-Add required API key:
 ANTHROPIC_API_KEY="your_key_here"
 
 ### 3. Run the Streamlit app
